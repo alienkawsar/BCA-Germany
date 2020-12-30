@@ -1,0 +1,377 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 374.98px) {
+    h2 {
+        font-size: 20px;
+    }
+.title-base h2 {
+   
+    font-weight: 400;
+}
+    .fontsm14{
+        font-size: 14px;
+    }
+    .sectionTwo svg {
+    fill: #929292;
+    height: 100px;
+    width: 100px;
+   
+}
+    .cardContent {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .card h4 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+    .card p {
+    font-size: 15px;
+    color: #929292;
+}
+    .flogo {
+        text-align: center;
+    }
+    .flink{
+        text-align: center;
+    }
+    .fcopyright{
+        text-align: center;
+    }
+    .sec3headContent h2 {
+    font-size: 22px;
+}
+ 
+    .sec5svgdiv {
+        margin: 0 auto;
+    } 
+    .section5Leftside .sec5carContent {
+    text-align: center;
+}
+    .section5Rightside .sec5carContent {
+    text-align: center;
+}
+    .sec5carContent h4{
+    color: #F88737;
+    font-size: 18px;
+}
+       
+.sec5carContent p{
+  font-size: 16px;
+}
+    .footerIcons {
+    text-align: center;
+}
+    .flip-box-header {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+}
+
+/*375*/
+@media (min-width: 375px) and (max-width: 424.98px) {
+    h2 {
+font-size: 24px;
+    }
+   .title-base h2 {
+
+    font-weight: 400;
+}
+    .fontsm14{
+        font-size: 14px;
+    }
+    .sectionTwo svg {
+    fill: #929292;
+    height: 100px;
+    width: 100px;
+  
+}
+    .cardContent {
+        text-align: center;
+           padding-top: 20px;
+    }
+    .card h4 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+    .card p {
+    font-size: 15px;
+    color: #929292;
+}
+    .flogo {
+        text-align: center;
+    }
+    .flink{
+        text-align: center;
+    }
+    .fcopyright{
+        text-align: center;
+    }
+    .sec3headContent h2 {
+   
+}
+    .sec5svgdiv {
+        margin: 0 auto;
+    } 
+    .section5Leftside .sec5carContent {
+    text-align: center;
+}
+    .section5Rightside .sec5carContent {
+    text-align: center;
+}
+    .sec5carContent h4{
+    color: #F88737;
+    font-size: 18px;
+}
+       
+.sec5carContent p{
+  font-size: 16px;
+}
+     .footerIcons {
+    text-align: center;
+}
+}
+
+@media (min-width: 425px) and (max-width: 575.98px) {
+     h2 {
+font-size: 24px;
+    }
+     .title-base h2 {
+   
+    font-weight: 400;
+}
+    .fontsm14{
+        font-size: 14px;
+    }
+    .sectionTwo svg {
+    fill: #929292;
+    height: 100px;
+    width: 100px;
+  
+}
+        .cardContent {
+        text-align: center;
+           padding-top: 20px;
+    }
+    .card h4 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+    .card p {
+    font-size: 15px;
+    color: #929292;
+}
+    .flogo {
+        text-align: center;
+    }
+    .flink{
+        text-align: center;
+    }
+    .fcopyright{
+        text-align: center;
+    }
+    .sec3headContent h2 {
+   
+}
+     .sec5svgdiv {
+        margin: 0 auto;
+    } 
+    .section5Leftside .sec5carContent {
+    text-align: center;
+}
+    .section5Rightside .sec5carContent {
+    text-align: center;
+}
+    .sec5carContent h4{
+    color: #F88737;
+    font-size: 18px;
+}
+       
+.sec5carContent p{
+  font-size: 16px;
+}
+     .footerIcons {
+    text-align: center;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+     h2 {
+font-size: 24px;
+    }
+       .title-base h2 {
+ 
+    font-weight: 400;
+}
+    .fontsm14{
+        font-size: 14px;
+    }  
+    
+    .sectionTwo svg {
+    fill: #929292;
+    height: 70px;
+    width: 70px;
+}
+    .card h4 {
+    font-size: 19px;
+    text-transform: uppercase;
+}
+    .card {
+        padding: 10px 0px;
+    }
+    .flogo {
+        text-align: center;
+    }
+    .flink{
+        text-align: center;
+    }
+    .fcopyright{
+        text-align: center;
+    }
+    .sec3headContent h2 {
+
+}
+     .sec5svgdiv {
+        margin: 0 auto;
+    } 
+    .section5Leftside .sec5carContent {
+    text-align: center;
+}
+    .section5Rightside .sec5carContent {
+    text-align: center;
+}
+    .sec5carContent h4{
+    color: #F88737;
+    font-size: 18px;
+}
+       
+.sec5carContent p{
+  font-size: 16px;
+}
+     .footerIcons {
+    text-align: center;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+     h2 {
+font-size: 30px;
+    }
+      .title-base h2 {
+
+    font-weight: 400;
+}
+    .fontsm14{
+        font-size: 16px;
+    }
+    .sectionTwo svg {
+    fill: #929292;
+    height: 100px;
+    width: 100px;
+  
+}
+      .sectionTwo svg {
+    fill: #929292;
+    height: 70px;
+    width: 70px;
+  
+}
+    .sec3headContent h2 {
+    
+}
+    .sec5carContent h4 {
+    color: #F88737;
+    font-size: 18px;
+}
+    .sec5carContent p {
+    font-size: 16px;
+        margin-bottom: 0px;
+} 
+    .sec5svgdiv{
+        margin: 0 auto;
+}
+    .sec5svgdiv {
+    /* border: 1px solid #F88737; */
+    width: 60px;
+    height: 60px;
+    padding: 1px;
+}
+    .sectionFiveSvg {
+    border: 1px solid #F88737;
+    width: 56px;
+    height: 56px;
+    padding: 12px 12px;
+    border-radius: 100px;
+}
+    .sectionFiveSvg svg {
+    width: 30px;
+    height: 30px;
+    fill: #F88737;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+   .sectionTwo svg {
+    fill: #929292;
+    height: 55px;
+    width: 55px;
+}
+    .card h4 {
+    font-size: 16px;
+    text-transform: uppercase;
+    }
+        .card p {
+    font-size: 14px;
+    color: #929292;
+}
+    .sec5carContent h4 {
+    color: #F88737;
+    font-size: 18px;
+}
+    .sec5carContent p {
+    font-size: 14px;
+}
+        .sec5svgdiv{
+        margin: 0 auto;
+}
+    .sec5svgdiv {
+    /* border: 1px solid #F88737; */
+    width: 60px;
+    height: 60px;
+    padding: 1px;
+}
+    .sectionFiveSvg {
+    border: 1px solid #F88737;
+    width: 56px;
+    height: 56px;
+    padding: 12px 12px;
+    border-radius: 100px;
+}
+    .sectionFiveSvg svg {
+    width: 30px;
+    height: 30px;
+    fill: #F88737;
+}
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+   .container {
+    max-width: 1280px;}
+/*
+    h2 {
+        width: 80%;
+        margin: 0 auto;
+    }
+    p {
+        width: 80%;
+        margin: 0 auto;
+    }
+*/
+    .fcopyright p{
+        text-align: left;
+    }
+    
+}

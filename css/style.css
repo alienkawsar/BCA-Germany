@@ -1,0 +1,303 @@
+/*section one */
+h2 {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.hr1 {
+    border-top: 2px solid white;
+    background: white;
+    width: 10%;
+
+}
+
+.hr2 {
+    border-top: 2px solid #FF8B38;
+    background: white;
+    width: 10%;
+
+}
+
+.hr3 {
+    border-top: 3px solid #FF8B38;
+    background: white;
+    width: 15%;
+
+}
+
+.hrmargin {
+    margin: 30px 0px;
+}
+
+.v-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sectionOne p {
+    /*    font-weight: 300;*/
+}
+
+.pt80px {
+    padding-top: 5%;
+}
+
+.logo {
+    height: 50px;
+    width: 160px;
+}
+
+/*Header video */
+/************************/
+.header-video {
+    background-color: #1D1D1D;
+    background-size: 10px;
+    height: 100vh;
+    overflow: hidden;
+
+    position: relative;
+}
+
+.full-screen-title .videobox {
+    height: 100% !important;
+}
+
+.videobox {
+    position: absolute;
+    /*            height: 350px;*/
+    overflow: hidden;
+    width: 100%;
+    z-index: 1;
+}
+
+.videobox video {
+    width: 100%;
+}
+
+.sectionOne video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.header-video .overlaybox {
+    overflow: hidden;
+}
+
+.full-screen-title .overlaybox {
+    /*    top: 50% !important;*/
+    position: absolute;
+    width: 100%;
+    z-index: 9;
+}
+
+.header-video .overlaybox {
+    text-align: center;
+}
+
+.overlaybox {
+    background: #00000069;
+    height: 100vh;
+}
+
+.videobutton a {
+    color: white;
+    border: 3px solid white;
+    padding: 10px;
+    text-decoration: none;
+    transition: .4s;
+
+}
+
+.videobutton a:hover {
+    color: #FF8B38;
+    border: 3px solid #FF8B38;
+    transition: .4s ease-in;
+}
+
+.videobutton a:hover svg {
+    fill: #FF8B38;
+    transition: .4s ease-in;
+}
+
+.videobutton a span svg {
+    width: 20px;
+    fill: white;
+    height: auto;
+}
+
+.title-base {
+    /*    width: 800px;*/
+    /*margin: 15% auto;*/
+
+}
+
+.title-base h2 {
+
+    font-weight: 400;
+}
+
+/************************/
+
+.svg2of4 svg {
+    width: 100%;
+    height: auto;
+}
+
+.sectionOneMobilevideo video {
+    width: 100%;
+    height: 100%;
+}
+
+.Auktionsübersicht svg {}
+
+font-weight500 {
+    font-size: 500;
+}
+
+/*section two */
+/*******************/
+.sectionTwo svg {
+    fill: #929292;
+    height: 65px;
+    width: 65px;
+}
+
+.card {
+    border: none !important;
+}
+
+.card h4 {
+    font-size: 21px;
+    text-transform: uppercase;
+}
+
+.card p {
+    font-size: 17px;
+    color: #929292;
+}
+
+.card:hover h4 {
+    color: #FF8B38;
+    /*    transition: .4s ease-in;*/
+
+}
+
+.card:hover svg {
+    fill: #FF8B38;
+    /*     transition: .4s ease-in;*/
+}
+
+
+.sec3headContent h2 {}
+
+.sec3headContent p {
+    color: #A9A9AC;
+}
+
+.sec3footerContent h3 {
+    font-size: 21px;
+}
+
+.sectionFour .content p {
+    color: #A9A9AC;
+}
+
+.sectionFour .content h2 {}
+
+.secfourButton a {
+    background: #FF8B38;
+    border: none;
+    border-radius: 0px;
+    color: white;
+}
+
+.sectionSix .content p {
+    color: #A9A9AC;
+}
+
+.sectionFive {
+    padding: 100px 0px;
+}
+
+.sectionFiveSvg svg {
+    width: 40px;
+    height: 40px;
+    fill: #F88737;
+}
+
+.sec5svgdiv:hover .sectionFiveSvg svg {
+
+    fill: white;
+}
+
+.sectionFiveSvg {
+    border: 1px solid #F88737;
+    width: 70px;
+    height: 70px;
+    padding: 15px 15px;
+    border-radius: 100px;
+}
+
+.sec5svgdiv:hover .sectionFiveSvg {
+    background: #F88737;
+
+}
+
+.sec5carContent h4 {
+    color: #F88737;
+    font-size: 23px;
+}
+
+.sec5carContent p {
+    font-size: 20px;
+}
+
+.section5Leftside .sec5carContent {
+    text-align: right;
+}
+
+.section5Rightside .sec5carContent {
+    text-align: left;
+}
+
+.section5carImg img {
+    /*    width: 80%;*/
+}
+
+.sec5svgdiv {
+    /*  border: 1px solid #F88737;*/
+    width: 80px;
+    height: 80px;
+    padding: 4px;
+}
+
+.sec5svgdiv:hover {
+    border: 1px solid #F88737;
+    border-radius: 100px;
+}
+
+.footerIcons {
+    text-align: right;
+}
+
+.footerIcons a {
+    padding: 10px;
+}
+
+.footerIcons a:hover i {
+    color: #FF8B38;
+}
+
+.flink a {}
+
+.paddingY15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/**********************************/
+/**********************************/
+/**********************************/
+/**********************************/
+/*section 6 video */

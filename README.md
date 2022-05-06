@@ -1,2 +1,1 @@
-## Live demo
-(https://bca-germany.netlify.app/)
+## Live demo: https://bca-germany.netlify.app/
